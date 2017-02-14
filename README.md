@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/tobiaslidstrom/Remarkable/master/LICENSE)
+
 Remarkable
 =============
 Remarkable is a CSS stylesheet for standardizing and resetting default styles. It will also use
