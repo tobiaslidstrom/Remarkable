@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
+
 Remarkable
 =============
 Remarkable is a CSS stylesheet for standardizing and resetting default styles. It will also use
@@ -13,4 +15,5 @@ Add this line to your `<head>` tag. Should be loaded before other stylesheets.
 License
 -------------------
 Copyright (c) 2014 by Tobias Lidström. All rights reserved.
+
 This project is released under the terms of the [Apache License 2.0](LICENSE).
