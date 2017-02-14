@@ -5,7 +5,12 @@ hacks to workaround common issues in browsers.
 
 Usage
 -------------------
-Add this line to your HTML head tag. Should be loaded before other stylesheets.
+Add this line to your `<head>` tag. Should be loaded before other stylesheets.
 ```
 <link rel="stylesheet" href="remarkable.css" media="all" />
 ```
+
+License
+-------------------
+Copyright (c) 2014 by Tobias Lidström. All rights reserved.
+This project is released under the terms of the [Apache License 2.0](LICENSE).
