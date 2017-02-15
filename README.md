@@ -15,6 +15,6 @@ Add this line to your `<head>` tag. Should be loaded before other stylesheets.
 
 License
 -------------------
-Copyright (c) 2014 by Tobias Lidström. All rights reserved.
+Copyright &copy; 2014 by Tobias Lidström. All rights reserved.
 
-This project is released under the terms of [Apache License 2.0](LICENSE).
+This project is licensed under the terms of [Apache License 2.0](LICENSE).
