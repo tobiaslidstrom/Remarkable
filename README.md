@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
+[![PayPal](https://img.shields.io/badge/donate-paypal-green.svg)](https://dreamz.com/donate)
 
 Remarkable
 =============
@@ -16,4 +17,4 @@ License
 -------------------
 Copyright (c) 2014 by Tobias Lidström. All rights reserved.
 
-This project is released under the terms of the [Apache License 2.0](LICENSE).
+This project is released under the terms of [Apache License 2.0](LICENSE).
