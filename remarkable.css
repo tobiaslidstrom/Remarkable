@@ -1,11 +1,12 @@
 /**
+ * Remarkable
  * CSS stylesheet for standardizing and resetting default styles.
- * Copyright (c) 2014 by Tobias Lidström. All rights reserved.
+ * Developed by Tobias Lidström is licensed under the Apache License 2.0.
  **/
 
 
 /************************** 
- * Reset
+ * Reset default
  **************************/
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address,
 cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd,
@@ -90,16 +91,17 @@ input, select {
 	vertical-align: middle;
 }
 
+
 /**************************
  * Fonts
  **************************/
 html {
-	font-size: 100%; /* Base font size 16px */
+	font-size: 16px; /* Base font size */
 }
 
 h1 {
-	font-size: 30px; /* Fallback for old browsers */
-	font-size: 1.875rem;
+	font-size: 32px; /* Fallback for old browsers */
+	font-size: 2.000rem;
 }
 
 h2 {
@@ -127,10 +129,11 @@ h6 {
 	font-size: 0.750rem;
 }
 
-p, li, code, blockquote { /* TODO add missing elements */
+p, li, code, blockquote {
 	font-size: 16px; /* Fallback for old browsers */
 	font-size: 1.000rem;
 }
+
 
 /**************************
  * Browser hacks
